@@ -12,7 +12,6 @@ body {
 .menu {
     display: flex;
     justify-content: space-evenly;
-    float: right;
 }
 
 .menu a {
