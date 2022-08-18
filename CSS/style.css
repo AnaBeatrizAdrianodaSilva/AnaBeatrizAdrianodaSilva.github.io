@@ -32,9 +32,11 @@ body {
 /* Frase */
 
 .frase {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
     width: 100%;
     height: 500px;
-    background-image: url(../img/OPD.jpg);
+    background-image: url(../img/fundo.jpg);
     background-position: center center;
     background-attachment: scroll;
     background-repeat: no-repeat;
